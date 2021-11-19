@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding-top: 20px;
+        padding-left: 325px;
+        max-width: 800px;
+        max-height: 600px;
+        font-family: sans-serif;
+        display: center;
+        align-item: center;
+        justify-content: center;
+        height: 100vh;
+        background: rgb(2,2,2);
+}
+p{
+    font-size: 13px;
+    line-height: 10px;
+        text-align: justify;
+    background-size: cover;
+    background: url(123.jpg);
+    background-attachment: center;
+    -wekbit-background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+    -wekbit-background-clip: text;
+     background-attachment: center;
+    -wekbit-text-fill-center: rgba(255, 255, 255, 0.1);
+}
