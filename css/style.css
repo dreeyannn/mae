@@ -5,22 +5,22 @@ body{
         max-height: 600px;
         font-family: sans-serif;
         display: center;
-        align-item: center;
+        align-items: center;
         justify-content: center;
         height: 100vh;
         background: rgb(2,2,2);
 }
 p{
     font-size: 13px;
-    line-height: 10px;
-        text-align: justify;
+    line-height: 1.0;
+    text-align: justify;
     background-size: cover;
     background: url(mae.jpg);
     background-attachment: center;
-    -wekbit-background-size: cover;
+    -webkit-background-size: cover;
      background-repeat: no-repeat;
      background-position: center;
-    -wekbit-background-clip: text;
+    -webkit-background-clip: text;
      background-attachment: center;
-    -wekbit-text-fill-center: rgba(255, 255, 255, 0.1);
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
